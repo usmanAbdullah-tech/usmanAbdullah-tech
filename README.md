@@ -14,7 +14,7 @@
 </a>
 
 
-<br />
+<br>
 
 Hi, I'm Usman Abdullah, a Web Developer and Cloud Developer 🚀 from Lahore, Pakistan.Currently,I am a Software Engineering Student.Also, I'm a public relation Team Member at Microsoft Community-Lahore.🙍🏽‍ 
 I have passion about learning new technologies 
